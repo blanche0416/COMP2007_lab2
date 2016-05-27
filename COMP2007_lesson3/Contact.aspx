@@ -24,7 +24,6 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <h1>Contact Us</h1>
                 <div class="form-group">
                     <label class="control-label" for="FirstNameTextBox">First Name</label>
                     <asp:TextBox runat="server" CssClass="form-control" ID="FirstNameTextBox" placeholder="First Name" required="true"></asp:TextBox>
